@@ -1,11 +1,11 @@
 {
-  "name": "pwa-demo",
-  "short_name": "pwa-demo",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Demo PWA",
+  "short_name": "Demo PWA",
+  "theme_color": "#FFFFFF",
+  "background_color": "#3F51B5",
+  "start_url": "/",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
